@@ -403,7 +403,7 @@ def grafico_pizza_nfs_nao_agrupadas_por_unidade(df):
 
 
 
-st.title("📦 NFs (Faturadas - Protocolocadas - Agrupadas) ")
+st.title("📦 NFs (Faturadas - Protocolocadas - Agrupadas) - Agosto/26")
 st.markdown(
     "<div class='descricao'>Cenário considera NF emitida no mesmo dia para o mesmo CNPJ, "
     "no mesmo local de origem, com protocolos distintos e desconsiderando as transportadoras selecionadas no filtro.</div>",
